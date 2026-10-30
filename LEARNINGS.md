@@ -1,3 +1,3 @@
-# What I learned in this assignment
+What I learned in this assignment:
 
-<!-- Write this yourself, in your own words. The assignment requires that it is not AI-generated. -->
+<-- I learned about the whole setup, how models describe the data, how migrations create the database tables from the model definitions. I also learned how tests check the expected behavior and how the recommendation command reads data and prints the first box where the heuristic finds a valid layout, also I confirmed that the web endpoint runs the same recommendation -->
