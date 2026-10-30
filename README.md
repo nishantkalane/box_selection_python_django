@@ -2,6 +2,9 @@
 
 A small Django system that recommends a low-cost shipping box for an ecommerce order. It checks the products' dimensions and total weight, then tries to place each unit inside active boxes without overlap.
 
+**GitHub repository:** [box_selection_python_django](https://github.com/nishantkalane/box_selection_python_django)
+
+
 ## Features
 
 - Product, shipping box, order, and order item models with database constraints.
